@@ -11,5 +11,6 @@ content="text/html; charset=utf-8"/>
 <?php echo $output; ?>
 </p> </br>
 <h2> dont say but web is awsum</h2>
+<h1> its coool man </h1>
 </body>
 </html>
