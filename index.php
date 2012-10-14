@@ -5,4 +5,6 @@
 		$output.="$count"; 		
 		}
 		include 'count.html.php';
+		include 'date.php';
+		include 'newfeature.php';
 ?>
